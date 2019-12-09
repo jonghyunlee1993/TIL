@@ -84,6 +84,8 @@ $ git push origin master
 - `![]()` 을 작성하고 `()` 안에 이미지 주소를 입력합니다. `[]` 안에는 이미지 파일의 이름을 작성합니다. 
 - 로컬에 이미지 파일을 저장한 경우, 절대 경로가 아닌 상대 경로를 사용하여 이미지를 저장합니다. 
 
+![github](/Users/jonghyunlee/GitRepo/TIL/markdown/git&github.png)
+
 
 
 ### 1.5 Link
@@ -171,5 +173,5 @@ ___
 
 ---
 
-> 현재의 pdf 문서를 마크다운 문법을 활용하여 `00_markdown_basic.md`로 만들어보세요.
+> 현재의 pdf **문서**를 마크다운 문법을 활용하여 `00_markdown_basic.md`로 만들어보세요.
 
